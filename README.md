@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AIshwarya
-- 👀 I’m interested in TA
+- 👋 Hi, I’m @Aishwarya
 
 <!---
 Ash2103/Ash2103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
